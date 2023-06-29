@@ -11,7 +11,11 @@ Run the below command
 go build
 ```
 
+To run the application
 
+```
+go run main.go
+```
 
 
 
